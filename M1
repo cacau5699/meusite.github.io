@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Emagreça Rápido por R$9,90</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; color:#333; }
+    .hero { padding: 60px 20px; text-align:center; background: #f5f5f5; }
+    .hero h1 { color: #27ae60; font-size:2.5em; margin-bottom:10px; }
+    .hero p { font-size:1.2em; margin-bottom:20px; }
+    .btn { background: #27ae60; color:white; padding:15px 30px; font-size:1.1em; text-decoration:none; border-radius:5px; }
+    .benefits, .how { padding:40px 20px; }
+    .benefits ul, .how ul { list-style: none; padding:0; }
+    .benefits li, .how li { font-size:1.1em; margin-bottom:15px; }
+    .testimonial { background: #fff; padding:20px; margin:20px auto; max-width:600px; border-left:4px solid #27ae60; }
+    .footer { text-align:center; padding:20px; font-size:0.9em; color:#777; }
+  </style>
+</head>
+<body>
+
+  <section class="hero">
+    <h1>🔥 EMAGREÇA RÁPIDO SEM ACADEMIA!</h1>
+    <p>Método 100% natural por apenas <strong>R$9,90</strong></p>
+    <a href="SEU-LINK-DE-PAGAMENTO-AQUI" class="btn">QUERO COMEÇAR AGORA</a>
+  </section>
+
+  <section class="benefits">
+    <h2 style="text-align:center; color:#27ae60;">O que você vai conquistar:</h2>
+    <ul>
+      <li>✔️ Emagrecer sem abrir mão do que gosta de comer</li>
+      <li>✔️ Resultados visíveis já na primeira semana</li>
+      <li>✔️ Método natural, seguro e fácil de seguir</li>
+      <li>✔️ Ideal para quem tem rotina corrida</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="testimonial">
+      <p>“Eu estava desanimada e sem tempo, mas em 2 semanas já vi 3 kg a menos. Virou parte da minha rotina!”</p>
+      <p><strong>– Ana, 35 anos</strong></p>
+    </div>
+    <div class="testimonial">
+      <p>“Sem remédios, sem academia. Emagreci comendo o que gosto. Vale cada centavo!”</p>
+      <p><strong>– Camila, 28 anos</strong></p>
+    </div>
+  </section>
+
+  <section class="how">
+    <h2 style="text-align:center; color:#27ae60;">Como funciona o processo:</h2>
+    <ul>
+      <li>1️⃣ Você faz seu pedido por R$9,90;</li>
+      <li>2️⃣ Recebe acesso imediato ao método digital;</li>
+      <li>3️⃣ Começa a aplicar e vê os primeiros resultados;</li>
+      <li>4️⃣ Depois, oferece upgrades (planos maiores).</li>
+    </ul>
+  </section>
+
+  <section style="text-align:center; padding:40px 20px;">
+    <a href="SEU-LINK-DE-PAGAMENTO-AQUI" class="btn">SIM, EU QUERO COMEÇAR!</a>
+  </section>
+
+  <footer class="footer">
+    <p>© 2025 Seu Método de Emagrecimento • Todos os direitos reservados</p>
+  </footer>
+
+</body>
+</html>
